@@ -9,3 +9,7 @@ func init() {
 func Hey() {
 	fmt.Println("Jude")
 }
+
+func Hoy() {
+	fmt.Println("Another Jude")
+}
