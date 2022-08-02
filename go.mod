@@ -1,3 +1,3 @@
-module github.com/VizhArc/test-module/v2
+module github.com/VizhArc/test-module/haha
 
 go 1.18

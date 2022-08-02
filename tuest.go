@@ -10,6 +10,6 @@ func Hey() {
 	fmt.Println("Jude")
 }
 
-func Hoy(data string) {
+func Hoy(data int) {
 	fmt.Println("Not ", data)
 }
