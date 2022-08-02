@@ -11,5 +11,5 @@ func Hey() {
 }
 
 func Hoy() {
-	fmt.Println("Another Jude")
+	fmt.Println("Not Jude")
 }
